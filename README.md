@@ -1,3 +1,3 @@
 # Lokuri-Website
 
-Created following Traversy Media, aditional customisations and feautred created by myself.
+Created following Traversy Media, additional customisations and features created by myself.
