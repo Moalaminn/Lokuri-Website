@@ -4,5 +4,5 @@ Created following Traversy Media.
 
 Additional customisations:
 
-> Created Sub pages, about, installation
-> Modified Content
+- Created Sub pages, about, installation
+- Modified Content
